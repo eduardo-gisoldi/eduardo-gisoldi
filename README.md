@@ -7,9 +7,9 @@ I'm a Computer Science student at USCS (Universidade Municipal de São Caetano d
 - 🌱 I’m currently learning Kotlin, Java, C, Javascript, HTML&CSS, and more.
 - 🤔 I’m looking for help with getting started on the work dynamic in tech.
 - 📫 How to reach me:
-  -  Personal emails: dudugisoldi@gmail.com or eduds13@outlook.com
-  -  University email: luis.gisoldi@uscsonline.com.br
   -  Professional email: eduardogisoldi@gmail.com
+  -  University email: luis.gisoldi@uscsonline.com.br
+  -  Personal emails: dudugisoldi@gmail.com or eduds13@outlook.com
   -  Phone number: +55 11 987350619 (I am on whatsapp!)
 - 😄 Pronouns: Accept any pronouns ✌️
 - ❤️ My main goals and interests in coding are developing various apps for mobile, making indie games and creating smart and efficient applications for web and windows. I am also getting a feel for Databases and Back-End in general also seems more interesting than I thought at first.
