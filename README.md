@@ -1,6 +1,6 @@
 ## Hi👋 I'm Edu! ✨
 
-**Computer Science Student @ USCS | Aspiring Backend & Mobile Developer**
+**Computer Science Student @ USCS(SP-Brasil) | Aspiring Backend & Mobile Developer**
 
 I am a passionate developer currently in my **6th semester** of Computer Science. After a period of personal growth and a successful transfer to USCS, I have rediscovered my drive for building impactful technology. I’m currently focused on bridging the gap between academic theory and real-world deployment, with a particular interest in **Android development, AI integration, and robust backend systems.**
 
