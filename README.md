@@ -1,17 +1,30 @@
-## Hi👋 You can call me Edu!✨
+## Hi👋 I'm Edu! ✨
 
-I'm a Computer Science student at USCS (Universidade Municipal de São Caetano do Sul, from the state of São Paulo in Brasil) and have been in love with tech basically all my life! I love computers and computer progams, games, apps and much more related in the area. I just overcame a slump period in my life and now at 25 years old am going after my passions in tech again. I recently transferred from an old university where I had bad experiences and am looking forward to the next years at USCS, the semesters have been amazing and I feel so much progress in so little time.
+**Computer Science Student @ USCS | Aspiring Backend & Mobile Developer**
 
-- 🎓 I’m currently in my 5th semester in the 8 semester major of Comp. Sci. at my university.
-- 🔭 I’m currently working on personal projects to develop my full stack programming & complete development and deployment skills.
-- 🌱 I’m currently learning Kotlin, Java, C, Javascript, HTML&CSS, MySQL, NoSQL, Cloud Technologies, Agile Methodologies, Software Engineering, and more.
-- 👔 I’m looking for a good and innovative place to start an internship and kick-start my career on a great path. 
-- 📫 How to reach me:
-  -  Professional email: eduardogisoldi@gmail.com
-  -  University email: luis.gisoldi@uscsonline.com.br
-  -  Personal emails: dudugisoldi@gmail.com or eduds13@outlook.com
-  -  Phone number: +55 11 987350619 (I am on whatsapp and telegram!)
-- 😄 Pronouns: Accept any pronouns ✌️ I am genderfluid.
-- ❤️ My main goals and interests in coding are developing various apps for mobile, making indie games and creating smart and efficient applications for web and windows. I am also very interested in cyber security.
-- 🌎 I speak Portuguese and English fluently! Reach out at any time ^^
+I am a passionate developer currently in my **6th semester** of Computer Science. After a period of personal growth and a successful transfer to USCS, I have rediscovered my drive for building impactful technology. I’m currently focused on bridging the gap between academic theory and real-world deployment, with a particular interest in **Android development, AI integration, and robust backend systems.**
 
+---
+
+### What I’m working on
+* **Mobile Development:** Currently building a "Who's That Pokémon?" app using **Kotlin** and **Jetpack Compose**, focusing on clean UI and efficient JSON data handling.
+* **AI & Automation:** Exploring AI-driven solutions for code documentation and assistant tools (inspired by my research into GitHub-integrated AI).
+* **System Environments:** Power user of **Fedora Linux (KDE Plasma)**, comfortable with terminal workflows, shell scripting (Fish), and modern package management.
+
+### Tech Stack & Tools
+* **Languages:** Kotlin, Java, C, JavaScript (Node.js)
+* **Frontend/Mobile:** Jetpack Compose, HTML5/CSS3
+* **Backend & Data:** MySQL, NoSQL, Text Indexing logic
+* **DevOps & Tools:** Linux (Fedora), Git/GitHub, Agile Methodologies, Virtualization
+
+### Career Goals
+I am actively seeking an **internship** where I can contribute to innovative teams. I bring a blend of maturity, technical curiosity, and a "problem-solver" mindset. I'm especially interested in roles involving **Mobile (Android), Backend development, or Cybersecurity.**
+
+---
+
+### 📫 Open to connect:
+* **Professional Email:** [eduardogisoldi@gmail.com](mailto:eduardogisoldi@gmail.com)
+* **University Email:** [luis.gisoldi@uscsonline.com.br](mailto:luis.gisoldi@uscsonline.com.br)
+* **WhatsApp/Telegram:** +55 11 987350619
+* **Languages:** 🇧🇷 Portuguese (Native) | 🇺🇸 English (Fluent) | 🇩🇪 German (Learning)
+* **Pronouns:** Any (Genderfluid) ✌️
